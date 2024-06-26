@@ -1,0 +1,3 @@
+Title: Analysis of Educational Factors in Economic Growth
+Description: Performing causal inference using Linear, Random Forest, Ada Boost, and KNN models to understand how aspects of a country's educational system affect economic growth using World Bank Educational Data.
+Stack: Scikit-Learn, Google Colab, Python, Seaborn
