@@ -1,0 +1,3 @@
+Title: Deep Learning Image Classifier
+Description: Built and hyperparameter-tuned two neural net architectures (feed forward and convolutional) to classify images.
+Stack: Pytorch, Python, Matplotlib
